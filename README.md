@@ -1,3 +1,11 @@
+# RoadPixels
+
+> Road Fleet: RoadPixels — your tools, your device. BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <h1 align="center">
     <a href="https://github.com/pablodelucca/pixel-agents/discussions">
         <img src="webview-ui/public/banner.png" alt="Pixel Agents">
